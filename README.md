@@ -21,19 +21,27 @@
 
 ###
 
-<h1 align="center">👩‍💻 Freelance Web Developer</h1>
+<h3 align="center">👩‍💻 Freelance Web Developer</h1>
 
 ###
 
-<h3 align="left">💡 About Me</h3>
+<br>
+
+<h2 align="left">💡 About Me</h2>
 
 ###
 
-<p align="left">I am a passionate freelance web developer based in the Philippines. <br><br>- 💼 I’m working as freelance website developer and I offer full stack website development services.<br>- 📚 I'm currently focused on learning React-based web development and UI/UX design.<br>- ⚡ In my free time, I enjoy browsing programming memes and exploring new opportunities.</p>
+<p align="left">I am a passionate freelance web developer based in the Philippines. </p>
+
+- 📚 I'm currently focused on learning React-based web development and UI/UX design.
+- ⚡ In my free time, I enjoy browsing programming memes and exploring new opportunities.
+- 🔭 I’m currently contributing on [Codebility-Plus](https://www.codebility.tech/)
+- 📝 I regularly write blogs on [https://technologywebdev15.substack.com/](https://technologywebdev15.substack.com/)
+- 📫 How to reach me **alyssalynjecomo@gmail.com**
 
 ###
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h2 align="left">🛠 Language and Tools</h2>
 
 ###
 
@@ -79,11 +87,11 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Guo-Alyssa-Lyn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
