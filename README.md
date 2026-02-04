@@ -86,13 +86,3 @@
 </div>
 
 ###
-
-<h2 align="left">🔥   My Stats :</h2>
-
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Guo-Alyssa-Lyn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
