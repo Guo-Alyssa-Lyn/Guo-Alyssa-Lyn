@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/alyssa-lyn-jecomo">
+  <a href="https://www.linkedin.com/in/alyssa-lyn-jecomo">
     LinkedIn
   </a>
   &nbsp;|&nbsp;
