@@ -1,88 +1,106 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/alyssa-lyn-jecomo-9186a82aa" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<h1 align="center">Hi, I'm Alyssa Lyn Jecomo 👋</h1>
+
+<p align="center">
+  <b>Full-Stack Web Developer</b> · React · Next.js · 
+  WordPress · Supabase
+</p>
+
+<p align="center">
+  📍 San Pedro, Laguna, Philippines &nbsp;|&nbsp;
+  📧 alyssalynjecomo@gmail.com
+</p>
+
+<p align="center">
+  <a href="linkedin.com/in/alyssa-lyn-jecomo">
+    LinkedIn
   </a>
-  <a href="https://www.facebook.com/nyleve.guo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  &nbsp;|&nbsp;
+  <a href="YOUR_PORTFOLIO_URL">
+    Portfolio
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Guo-Alyssa-Lyn.Guo-Alyssa-Lyn&"  />
-</div>
+## 👩‍💻 About Me
 
-###
+Self-driven Full-Stack Web Developer with 1 year of 
+hands-on experience building production-grade platforms 
+and delivering WordPress projects for international 
+clients.
 
-<h3 align="center">👩‍💻 Freelance Web Developer</h1>
+- 🔭 Looking For: New opportunities in Full-Stack or Frontend Development
+- 🌱 Exploring: Advanced React patterns & API integrations
+- 💼 Open to: Full-Stack, Frontend, or WordPress 
+  Developer roles
+- 🌐 Languages: English, Tagalog, Mandarin
 
-###
+---
 
-<br>
+## 🛠️ Tech Stack
 
-<h2 align="left">💡 About Me</h2>
+**Frontend:**
+React · Next.js · TypeScript · TailwindCSS · Node.js ·
+JavaScript · HTML5 · CSS3
 
-###
+**Backend & Database:**
+Node.js · Supabase · SQL · PHP · REST APIs
 
-<p align="left">I am a passionate freelance web developer based in the Philippines. </p>
+**Mobile Development:**
+React Native · Expo · Android Studio
 
-- 📚 I'm currently focused on learning React-based web development and UI/UX design.
-- ⚡ In my free time, I enjoy browsing programming memes and exploring new opportunities.
-- 🔭 I’m currently contributing on [Codebility-Plus](https://www.codebility.tech/)
-- 📝 I regularly write blogs on [https://technologywebdev15.substack.com/](https://technologywebdev15.substack.com/)
-- 📫 How to reach me **alyssalynjecomo@gmail.com**
+**Tools & Platforms:**
+WordPress · Elementor · Git · GitHub · VS Code · 
+Shadcn/UI · Canva 
 
-###
+---
 
-<h2 align="left">🛠 Language and Tools</h2>
+## 🚀 Featured Projects
 
-###
+### Codebility Portal (Internal Platform)
+> Full-Stack Developer & Team Lead · Aug 2025 – May 2026
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-</div>
+Production-grade developer management platform built 
+for a tech startup. Features include dashboards, 
+leaderboards, org charts, applicant management, 
+attendance tracking, and client analytics.
+
+**Stack:** React · Next.js · Node.js · Tailwind CSS · 
+Supabase
+
+---
+
+### Firmfix Scaffolding Website
+> WordPress Developer · Nov 2025 – Dec 2025
+
+Business website for an international scaffolding 
+and property services client. Includes responsive 
+layouts, SMTP mail, SSL, SEO optimization, and 
+contact forms.
+
+**Stack:** WordPress · Elementor · SEO · SMTP
+
+---
+
+### BW Handyman Services Website
+> WordPress Developer · Jan 2026 – Feb 2026
+
+Full website redesign and original content creation 
+for a handyman services company. Includes service 
+pages, Google Business Profile integration, and 
+pre-launch QA.
+
+**Stack:** WordPress · Elementor · SEO · 
+Google Business Profile
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Guo-Alyssa-Lyn&show_icons=true&theme=dark&hide_border=true" />
+</p>
 
 ###
